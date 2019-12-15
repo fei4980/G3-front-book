@@ -1,7 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="8c1fc636-6d45-4fe8-afeb-1698ebb839d6" name="Default" comment="" />
+    <list default="true" readonly="true" id="ef6e5491-9ee8-4ebd-8df8-ed9c2a1da020" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_book/images/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-back-to-top-button/screenshots.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-search-pro/previews/search1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-search-pro/previews/search2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-search-pro/previews/search3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-splitter/gitbook-splitter-demo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/G3-front-book.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gitbook-g3.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-exported-files.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_book/.idea/G3-front-book.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_book/.idea/markdown-exported-files.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_book/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-back-to-top-button/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-back-to-top-button/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-back-to-top-button/assets/plugin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-back-to-top-button/assets/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-back-to-top-button/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-back-to-top-button/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-chapter-fold/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-chapter-fold/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-chapter-fold/book/chapter-fold.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-chapter-fold/book/chapter-fold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-chapter-fold/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-chapter-fold/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-code/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-code/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-code/assets/plugin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-code/assets/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-code/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-code/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-page-copyright/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-page-copyright/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-page-copyright/assets/footer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-page-copyright/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-page-copyright/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-page-copyright/qrcode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-puml/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-puml/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-puml/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-puml/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-puml/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-puml/node_modules/plantuml-encoder/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-puml/node_modules/plantuml-encoder/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-puml/node_modules/plantuml-encoder/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-puml/node_modules/plantuml-encoder/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-puml/node_modules/plantuml-encoder/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-puml/node_modules/plantuml-encoder/lib/encode64.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-puml/node_modules/plantuml-encoder/lib/plantuml-encoder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-puml/node_modules/plantuml-encoder/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-puml/node_modules/plantuml-encoder/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-puml/node_modules/plantuml-encoder/test/plantuml-encoder-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-puml/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-puml/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-search-pro/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-search-pro/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-search-pro/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-search-pro/_layouts/website/page.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-search-pro/assets/jquery.mark.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-search-pro/assets/search.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-search-pro/assets/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-search-pro/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-search-pro/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-splitter/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-splitter/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-splitter/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-splitter/book/splitter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-splitter/book/splitter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-splitter/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-splitter/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/html-entities/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/html-entities/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/html-entities/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/html-entities/lib/html4-entities.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/html-entities/lib/html5-entities.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/html-entities/lib/xml-entities.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/html-entities/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pako/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pako/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pako/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pako/dist/pako.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pako/dist/pako.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pako/dist/pako_deflate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pako/dist/pako_deflate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pako/dist/pako_inflate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pako/dist/pako_inflate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pako/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pako/lib/deflate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pako/lib/inflate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pako/lib/utils/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pako/lib/utils/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pako/lib/zlib/adler32.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pako/lib/zlib/constants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pako/lib/zlib/crc32.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pako/lib/zlib/deflate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pako/lib/zlib/gzheader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pako/lib/zlib/inffast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pako/lib/zlib/inflate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pako/lib/zlib/inftrees.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pako/lib/zlib/messages.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pako/lib/zlib/trees.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pako/lib/zlib/zstream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pako/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/plantuml-encoder/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/plantuml-encoder/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/plantuml-encoder/browser-index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/plantuml-encoder/dist/plantuml-decoder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/plantuml-encoder/dist/plantuml-decoder.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/plantuml-encoder/dist/plantuml-encoder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/plantuml-encoder/dist/plantuml-encoder.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/plantuml-encoder/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/plantuml-encoder/lib/browser-deflate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/plantuml-encoder/lib/browser-inflate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/plantuml-encoder/lib/decode64.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/plantuml-encoder/lib/decoder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/plantuml-encoder/lib/deflate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/plantuml-encoder/lib/encode64.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/plantuml-encoder/lib/encoder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/plantuml-encoder/lib/inflate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/plantuml-encoder/package.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-livereload/plugin.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/.idea/workspace.xml" afterPath="$PROJECT_DIR$/_book/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/index.html" afterPath="$PROJECT_DIR$/_book/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/pagebase/base.html" afterPath="$PROJECT_DIR$/_book/pagebase/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/pagebase/base.md" afterPath="$PROJECT_DIR$/_book/pagebase/base.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/search_plus_index.json" afterPath="$PROJECT_DIR$/_book/search_plus_index.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pagebase/base.md" afterPath="$PROJECT_DIR$/pagebase/base.md" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,20 +149,23 @@
       <file leaf-file-name="book.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/book.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+            <state relative-caret-position="506">
+              <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="base.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pagebase/base.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="88">
-                <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-                <folding />
+              <first_editor relative-caret-position="176">
+                <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+                <folding>
+                  <marker date="1575301948307" expanded="true" signature="128:136" ph="..." />
+                  <marker date="1575301948307" expanded="true" signature="164:234" ph="..." />
+                </folding>
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -54,17 +189,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pagebase/base.md">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="22">
-                <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <first_editor relative-caret-position="88">
+                <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
               </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_book/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="234" column="18" lean-forward="true" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -78,6 +233,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>本书</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -85,6 +251,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/SUMMARY.md" />
         <option value="$PROJECT_DIR$/pagebase/base.md" />
+        <option value="$PROJECT_DIR$/_book/index.html" />
       </list>
     </option>
   </component>
@@ -104,11 +271,11 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="316" />
-    <option name="y" value="156" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="120" />
+    <option name="y" value="71" />
     <option name="width" value="1728" />
-    <option name="height" value="897" />
+    <option name="height" value="908" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -125,14 +292,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="gitbook-g3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gitbook-g3" type="462c0819:PsiDirectoryNode" />
+              <item name="G3-front-book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="G3-front-book" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -143,9 +310,14 @@
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path" value="F:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="G:/sts/workspase/laizhihongProject/litemall-admin" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\WebStormProject\G3-front-book\images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -168,27 +340,52 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8c1fc636-6d45-4fe8-afeb-1698ebb839d6" name="Default" comment="" />
+      <changelist id="ef6e5491-9ee8-4ebd-8df8-ed9c2a1da020" name="Default" comment="" />
       <created>1575210968932</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575210968932</updated>
       <workItem from="1575210970575" duration="3116000" />
-      <workItem from="1575214152149" duration="382000" />
+      <workItem from="1575214152149" duration="880000" />
+      <workItem from="1575298561840" duration="3921000" />
+      <workItem from="1575468656882" duration="963000" />
+      <workItem from="1576418162193" duration="606000" />
     </task>
+    <task id="LOCAL-00001" summary="初次提交">
+      <created>1575215227884</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575215227884</updated>
+    </task>
+    <task id="LOCAL-00002" summary="初次提交">
+      <created>1575301171177</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575301171177</updated>
+    </task>
+    <task id="LOCAL-00003" summary="初次提交">
+      <created>1575301284758</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575301284758</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3498000" />
+    <option name="totallyTimeSpent" value="10246000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="316" y="156" width="1728" height="897" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28121284" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22198732" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16477273" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32982457" sideWeight="0.5063425" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32982457" sideWeight="0.4936575" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -209,11 +406,171 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="初次提交" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/book.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagebase/base.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="176">
+            <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <folding>
+              <marker date="1575301948307" expanded="true" signature="128:136" ph="..." />
+              <marker date="1575301948307" expanded="true" signature="164:234" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="154">
+            <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="88">
+            <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_book/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4840">
+          <caret line="220" column="22" lean-forward="false" selection-start-line="220" selection-start-column="22" selection-end-line="220" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagebase/base.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="176">
+            <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <folding>
+              <marker date="1575301948307" expanded="true" signature="128:136" ph="..." />
+              <marker date="1575301948307" expanded="true" signature="164:234" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="154">
+            <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="88">
+            <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_book/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4840">
+          <caret line="220" column="22" lean-forward="true" selection-start-line="220" selection-start-column="22" selection-end-line="220" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagebase/base.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="22">
+            <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <folding>
+              <marker date="1575301948307" expanded="true" signature="128:136" ph="..." />
+              <marker date="1575301948307" expanded="true" signature="164:234" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/book.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -251,11 +608,45 @@
     <entry file="file://$PROJECT_DIR$/_book/gitbook/gitbook.js" />
     <entry file="file://$PROJECT_DIR$/tsconfig.json" />
     <entry file="file://$PROJECT_DIR$/_book/search_index.json" />
-    <entry file="file://$PROJECT_DIR$/_book/index.html" />
     <entry file="file://$PROJECT_DIR$/book.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        <state relative-caret-position="506">
+          <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagebase/base.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="176">
+            <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <folding>
+              <marker date="1575301948307" expanded="true" signature="128:136" ph="..." />
+              <marker date="1575301948307" expanded="true" signature="164:234" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="154">
+            <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -279,35 +670,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="154">
-            <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pagebase/base.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="22">
-            <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
+    <entry file="file://$PROJECT_DIR$/_book/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="234" column="18" lean-forward="true" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>

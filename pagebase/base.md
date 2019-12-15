@@ -1,6 +1,7 @@
 - **基本**
 
 ![markdown](https://www.mdeditor.com/images/logos/markdown.png "markdown")
+![markdown](/images/1.png "markdown")
 <html>
 <body>
 
